@@ -22,37 +22,34 @@ Ambas versiones exponen un menú interactivo con 14 opciones que cubren todas la
 
 ## 📁 Estructura del repositorio
 
+## 📁 Estructura del repositorio
+
+```text
 prueba-practica-arboles-cpp-java/
-│
 ├── cpp/
-│ ├── Estudiante.h
-│ ├── Estudiante.cpp
-│ ├── NodoArbol.h
-│ ├── NodoArbol.cpp
-│ ├── ArbolBST.h
-│ ├── ArbolBST.cpp
-│ ├── main.cpp
-│ └── Makefile
-│
+│   ├── Estudiante.h
+│   ├── Estudiante.cpp
+│   ├── NodoArbol.h
+│   ├── NodoArbol.cpp
+│   ├── ArbolBST.h
+│   ├── ArbolBST.cpp
+│   ├── main.cpp
+│   └── Makefile
 ├── java/
-│ ├── Estudiante.java
-│ ├── NodoArbol.java
-│ ├── ArbolBST.java
-│ └── Main.java
-│
+│   ├── Estudiante.java
+│   ├── NodoArbol.java
+│   ├── ArbolBST.java
+│   └── Main.java
 ├── evidencias/
-│ ├── menu.png
-│ ├── insercion.png
-│ ├── inorden.png
-│ ├── bfs.png
-│ ├── mayor_nota.png
-│ ├── aprobados.png
-│ └── eliminacion.png
-│
+│   ├── menu.png
+│   ├── insercion.png
+│   ├── inorden.png
+│   ├── bfs.png
+│   ├── mayor_nota.png
+│   ├── aprobados.png
+│   └── eliminacion.png
 ├── README.md
 └── LICENSE
-
-
 ---
 
 ## ⚙️ Requisitos
