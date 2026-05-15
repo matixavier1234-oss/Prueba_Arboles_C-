@@ -32,7 +32,7 @@ prueba-practica-arboles-cpp-java/
 │ ├── ArbolBST.h
 │ ├── ArbolBST.cpp
 │ ├── main.cpp
-│ └── Makefile (opcional)
+│ └── Makefile
 │
 ├── java/
 │ ├── Estudiante.java
@@ -50,7 +50,7 @@ prueba-practica-arboles-cpp-java/
 │ └── eliminacion.png
 │
 ├── README.md
-└── LICENSE (opcional
+└── LICENSE
 
 
 ---
@@ -82,4 +82,3 @@ g++ -std=c++11 -o sistema_estudiantes Estudiante.cpp NodoArbol.cpp ArbolBST.cpp 
 ./sistema_estudiantes   # Linux/macOS
 sistema_estudiantes.exe # Windows
 
-    
