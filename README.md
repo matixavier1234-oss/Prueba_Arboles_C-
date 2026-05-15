@@ -1,4 +1,4 @@
-# 📚 Prueba Práctica: Árboles Binarios de Búsqueda – C++ y Java
+#  Prueba Práctica: Árboles Binarios de Búsqueda – C++ y Java
 
 **Asignatura:** Estructura de Datos  
 **Tema:** Árboles binarios, recorridos y aplicación práctica  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 
 Este repositorio contiene la implementación completa de un sistema académico que permite gestionar estudiantes mediante un **árbol binario de búsqueda (ABB)**. Cada estudiante almacena: cédula, apellidos, nombres, nota final, carrera y nivel.
 
@@ -20,9 +20,7 @@ Ambas versiones exponen un menú interactivo con 14 opciones que cubren todas la
 
 ---
 
-## 📁 Estructura del repositorio
-
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```text
 prueba-practica-arboles-cpp-java/
@@ -52,7 +50,7 @@ prueba-practica-arboles-cpp-java/
 └── LICENSE
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 ### Para C++
 - Compilador con soporte C++11 o superior (g++, clang++).
@@ -64,9 +62,9 @@ prueba-practica-arboles-cpp-java/
 
 ---
 
-## 🚀 Instrucciones de compilación y ejecución
+##  Instrucciones de compilación y ejecución
 
-### 🔹 Versión C++
+###  Versión C++
 
 ```bash
 # Entrar al directorio cpp
